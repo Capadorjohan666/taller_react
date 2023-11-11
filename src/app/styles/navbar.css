@@ -1,0 +1,21 @@
+/* styles.css */
+.navbar {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  background-color: #333; /* Cambia el color de fondo según tu preferencia */
+  padding: 1rem; /* Añade espacio alrededor del Navbar */
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list li {
+  margin-right: 1rem;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: white; /* Cambia el color del texto según tu preferencia */
+}
